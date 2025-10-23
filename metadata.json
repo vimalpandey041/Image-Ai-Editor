@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PNG AI Editor",
+  "description": "An intelligent image editor powered by Google's Gemini Nano Banana model. Easily upload images to remove backgrounds, resize canvases, convert formats, and compress files with AI assistance.",
+  "requestFramePermissions": []
+}
